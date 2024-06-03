@@ -57,7 +57,7 @@ The project has the following directory structure:
 
 ## Credits
 
-This project was created by [Your Name] as a basic weather forecasting webpage project using HTML, CSS, and JavaScript.
+This project was created by Yash Bhujbal as a basic weather forecasting webpage project using HTML, CSS, and JavaScript.
 
 ## License
 
